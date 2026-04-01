@@ -1,0 +1,5 @@
+{
+  "name": "PinkApp",
+  "description": "A WhatsApp-styled app with Login, Signup, and a Home screen featuring a slider and grid.",
+  "requestFramePermissions": []
+}
